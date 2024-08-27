@@ -1,5 +1,8 @@
 <!-- ## Header Section -->
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Varsity&weight=600&pause=1000&color=F7CB4E&background=DA0000EE&center=true&vCenter=true&width=435&lines=luis+diaz;Welcome+to+my+profile!)](https://git.io/typing-svg)
+</div>
 
 <!-- ## Role Section -->
 <p align="center">
