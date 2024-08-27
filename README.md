@@ -38,6 +38,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
+<p align="center">
+  ![Profile Views](https://camo.githubusercontent.com/ffe07ecc54bec6022c40ff03eea93dea48b08aba634a5bf0b1530efee56255c6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d37656d706573747826636f6c6f723d303039393939267374796c653d666f722d7468652d6261646765)
+</p>
 <!--
 **Octobr26/Octobr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
