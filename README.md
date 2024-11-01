@@ -38,6 +38,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
+<p align="center">
+  <b> For my information you can keep up with me on my blog @ 
+    <a href="https://octobr26.github.io/"> bananamilk.net </a>
+  </b>
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Octobr26&color=009999&style=for-the-badge)
 
 <!--
