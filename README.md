@@ -1,7 +1,7 @@
 <!-- ## Header Section -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:009999,100:F7CB4E&height=180&section=header&text=Luis%20Diaz&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Systems&descSize=20&descAlignY=75" alt="header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:009999,100:F7CB4E&height=180&section=header&text=Luis%20Diaz&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Systems&descSize=20&fontAlignY=35&descAlignY=58" alt="header" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009999&center=true&vCenter=true&width=520&lines=Turning+coffee+into+reliable+systems+%E2%98%95%EF%B8%8F;React+%7C+TypeScript+%7C+Python+%7C+AWS;Serverless+%2B+LLM+Integration)](https://git.io/typing-svg)
 
@@ -65,8 +65,12 @@ Love mentoring engineers and helping teams ship without breaking prod.
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Octobr26&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=009999&icon_color=F7CB4E" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octobr26&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=009999" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Octobr26&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=009999&icon_color=F7CB4E" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Octobr26&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=009999" alt="Top Languages" height="165">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Octobr26&theme=react&hide_border=true&background=0D1117&ring=009999&fire=F7CB4E&currStreakLabel=009999" alt="GitHub Streak">
 </div>
 
 <!-- ## Contact Section -->
