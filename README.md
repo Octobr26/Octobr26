@@ -1,7 +1,7 @@
 <!-- ## Header Section -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:009999,100:F7CB4E&height=180&section=header&text=Luis%20Diaz&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Systems&descSize=20&fontAlignY=35&descAlignY=58" alt="header" width="100%">
+<img src="assets/header.svg" alt="Luis Diaz — Senior Software Engineer | Full-Stack & AI Systems" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009999&center=true&vCenter=true&width=520&lines=Turning+coffee+into+reliable+systems+%E2%98%95%EF%B8%8F;React+%7C+TypeScript+%7C+Python+%7C+AWS;Serverless+%2B+LLM+Integration)](https://git.io/typing-svg)
 
@@ -82,6 +82,6 @@ Love mentoring engineers and helping teams ship without breaking prod.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Octobr26&color=009999&style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CB4E,100:009999&height=100&section=footer" alt="footer" width="100%">
+<img src="assets/footer.svg" alt="" width="100%">
 
 </div>

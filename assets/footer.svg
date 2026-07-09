@@ -1,0 +1,25 @@
+<svg width="854" height="100" viewBox="0 0 854 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F7CB4E"/>
+      <stop offset="100%" stop-color="#009999"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#grad)" opacity="0.4">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      values="M0 100L0 40Q213.5 15 427 35T854 25L854 100Z;
+              M0 100L0 25Q213.5 40 427 20T854 40L854 100Z;
+              M0 100L0 35Q213.5 20 427 40T854 20L854 100Z;
+              M0 100L0 40Q213.5 15 427 35T854 25L854 100Z"/>
+  </path>
+  <path fill="url(#grad)">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      values="M0 100L0 55Q213.5 30 427 50T854 40L854 100Z;
+              M0 100L0 40Q213.5 55 427 35T854 55L854 100Z;
+              M0 100L0 50Q213.5 35 427 55T854 35L854 100Z;
+              M0 100L0 55Q213.5 30 427 50T854 40L854 100Z"/>
+  </path>
+</svg>
