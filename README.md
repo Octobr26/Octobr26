@@ -55,11 +55,11 @@ Love mentoring engineers and helping teams ship without breaking prod.
 
 | Project | What it does |
 | --- | --- |
-| **Mad Red Books** | Ecommerce + operations tooling supporting $300K+ annual revenue across POS and online channels |
-| **High Stakes Festival** | Mobile-first event site for lineup, ticketing, and streaming — 50K+ visits |
-| **Unity Events** | Event platform with automated Wix CMS publishing pipeline — 40K+ visits |
+| [**Mad Red Books**](https://madredbooks.com) | Ecommerce + operations tooling supporting $300K+ annual revenue across POS and online channels |
+| [**High Stakes Festival**](https://highstakesfestival.com) | Mobile-first event site for lineup, ticketing, and streaming — 50K+ visits |
+| [**Unity Events**](https://unityevents.com) | Event platform with automated Wix CMS publishing pipeline — 40K+ visits |
 | **Workflow Automation CLI** | Published npm package automating AWS CodeCommit PR creation with Notion sync — PR workflow 15+ minutes faster per request |
-| **SGP Studio** | Responsive websites and portfolio systems for 7+ small businesses |
+| [**SGP Studio**](https://us-sgp.com) | My web dev business — responsive websites and portfolio systems for 7+ small businesses |
 
 <!-- ## Stats Section -->
 ### 📊 Stats
