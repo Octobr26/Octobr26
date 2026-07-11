@@ -61,18 +61,6 @@ Love mentoring engineers and helping teams ship without breaking prod.
 | **Workflow Automation CLI** | Published npm package automating AWS CodeCommit PR creation with Notion sync — PR workflow 15+ minutes faster per request |
 | [**SGP Studio**](https://us-sgp.com) | My web dev business — responsive websites and portfolio systems for 7+ small businesses |
 
-<!-- ## Stats Section -->
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Octobr26&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=009999&icon_color=F7CB4E" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Octobr26&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=009999" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Octobr26&theme=react&hide_border=true&background=0D1117&ring=009999&fire=F7CB4E&currStreakLabel=009999" alt="GitHub Streak">
-</div>
-
 <!-- ## Contact Section -->
 <p align="center">
   <b>For website inquiries, visit <a href="https://us-sgp.com">us-sgp.com</a></b>
