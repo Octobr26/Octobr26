@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Luis Diaz — Senior Software Engineer, Full-Stack and AI Systems" width="100%">
+<img src="assets/header-minimal.svg" alt="Luis Diaz — Senior Software Engineer, Full-Stack and AI Systems" width="100%">
 
 <p>
 <a href="https://www.linkedin.com/in/luisdiazcf">LinkedIn</a> ·
