@@ -1,8 +1,7 @@
 <div align="center">
 
-<h1>Luis Diaz</h1>
-<p><strong>Senior Software Engineer</strong><br>
-Full-stack systems, serverless AWS, and applied AI.</p>
+<img src="assets/header.svg" alt="Luis Diaz — Senior Software Engineer, Full-Stack and AI Systems" width="100%">
+
 <p>
 <a href="https://www.linkedin.com/in/luisdiazcf">LinkedIn</a> ·
 <a href="mailto:ldiazcortesf@gmail.com">Email</a> ·
@@ -63,4 +62,8 @@ Love mentoring engineers and helping teams ship without breaking prod.
 
 <p align="center">
   Website inquiries: <a href="https://us-sgp.com">us-sgp.com</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Octobr26&color=2a9d8f&style=flat-square&label=Profile%20views" alt="Profile views">
 </p>

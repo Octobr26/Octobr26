@@ -1,0 +1,22 @@
+<svg width="854" height="138" viewBox="0 0 854 138" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Luis Diaz, Senior Software Engineer, Full-Stack and AI Systems">
+  <style>
+    .name {
+      font: 700 42px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      letter-spacing: -1px;
+      fill: #f8fafc;
+    }
+    .role {
+      font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      fill: #cbd5e1;
+    }
+  </style>
+
+  <rect width="854" height="138" fill="#101820"/>
+  <rect width="854" height="4" fill="#2a9d8f"/>
+  <circle cx="397" cy="105" r="3" fill="#2a9d8f"/>
+  <circle cx="427" cy="105" r="3" fill="#64748b"/>
+  <circle cx="457" cy="105" r="3" fill="#e9c46a"/>
+
+  <text class="name" x="427" y="64" text-anchor="middle">Luis Diaz</text>
+  <text class="role" x="427" y="91" text-anchor="middle">Senior Software Engineer · Full-Stack &amp; AI Systems</text>
+</svg>
