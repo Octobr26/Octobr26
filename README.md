@@ -65,5 +65,5 @@ Love mentoring engineers and helping teams ship without breaking prod.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Octobr26&color=2a9d8f&style=flat-square&label=Profile%20views" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Octobr26&color=555555&style=flat-square&label=Profile%20views" alt="Profile views">
 </p>
