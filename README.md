@@ -1,13 +1,13 @@
-<!-- ## Header Section -->
 <div align="center">
 
-<img src="assets/header.svg" alt="Luis Diaz — Senior Software Engineer | Full-Stack & AI Systems" width="100%">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009999&center=true&vCenter=true&width=520&lines=Turning+coffee+into+reliable+systems+%E2%98%95%EF%B8%8F;React+%7C+TypeScript+%7C+Python+%7C+AWS;Serverless+%2B+LLM+Integration)](https://git.io/typing-svg)
-
-<a href="https://www.linkedin.com/in/luisdiazcf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:ldiazcortesf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<img src="https://img.shields.io/badge/San%20Diego%20%2F%20Las%20Vegas-Remote-009999?style=for-the-badge" alt="Location">
+<h1>Luis Diaz</h1>
+<p><strong>Senior Software Engineer</strong><br>
+Full-stack systems, serverless AWS, and applied AI.</p>
+<p>
+<a href="https://www.linkedin.com/in/luisdiazcf">LinkedIn</a> ·
+<a href="mailto:ldiazcortesf@gmail.com">Email</a> ·
+San Diego / Las Vegas · Remote
+</p>
 
 </div>
 
@@ -61,15 +61,6 @@ Love mentoring engineers and helping teams ship without breaking prod.
 | **Workflow Automation CLI** | Published npm package automating AWS CodeCommit PR creation with Notion sync — PR workflow 15+ minutes faster per request |
 | [**SGP Studio**](https://us-sgp.com) | My web dev business — responsive websites and portfolio systems for 7+ small businesses |
 
-<!-- ## Contact Section -->
 <p align="center">
-  <b>For website inquiries, visit <a href="https://us-sgp.com">us-sgp.com</a></b>
+  Website inquiries: <a href="https://us-sgp.com">us-sgp.com</a>
 </p>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Octobr26&color=009999&style=for-the-badge)
-
-<img src="assets/footer.svg" alt="" width="100%">
-
-</div>
